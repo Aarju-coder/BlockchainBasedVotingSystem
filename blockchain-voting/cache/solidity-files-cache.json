@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\aarju\\Work\\generic_blockchain_voting\\BlockchainBasedVotingSystem\\blockchain-voting\\contracts\\Election.sol": {
+      "lastModificationDate": 1742410933469,
+      "contentHash": "209c12d439839af1d606034344d44f9f",
+      "sourceName": "contracts/Election.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "Election"
+      ]
+    }
+  }
+}
