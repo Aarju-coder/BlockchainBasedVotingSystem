@@ -86,7 +86,7 @@ ETHERSCAN_API_KEY=<YOUR_ETHERSCAN_API_KEY>
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/blockchainbasedvotingsystem.git
+git clone https://github.com/Aarju-coder/BlockchainBasedVotingSystem.git
 cd blockchainbasedvotingsystem
 ```
 
