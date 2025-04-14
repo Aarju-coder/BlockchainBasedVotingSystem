@@ -3,6 +3,9 @@
 A secure, transparent, and decentralized voting platform built on **Ethereum blockchain** using **Solidity**, **React**, and **IPFS**. This system allows users to create elections, add candidates, cast votes, and view real-time results—all powered by smart contracts and a fully on-chain infrastructure.
 
 ---
+## 🖼️ Application UI
+
+![App Preview](./voting-dapp_fe/assets/app-preview.png)
 
 ## 🚀 Features
 
