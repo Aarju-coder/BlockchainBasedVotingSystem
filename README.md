@@ -148,7 +148,7 @@ MIT License
 ---
 
 ## 👨‍💼 Author
-Made with ❤️ by [Your Name] · [GitHub](https://github.com/your-username)
+Made with ❤️ by Aarju Kumar · [GitHub](https://github.com/Aarju-coder)
 
 > For issues or feature requests, open an issue or pull request.
 
